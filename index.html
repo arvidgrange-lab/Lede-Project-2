@@ -99,14 +99,27 @@
         /* margin on mobile */
         @media (max-width: 640px) {
             body {
-                font-size: 18px;
+            font-size: 18px;
             }
-
+            /* 1. Increases padding so text stops hugging the left/right edges */
             .content {
-                padding-left: 0.5em;
-                padding-right: 0.5em;
+            padding-left: 1.2em;
+            padding-right: 1.2em;
             }
-        }
+            /* 2. Shrinks the massive title so it fits beautifully on a phone */
+
+            h1 {
+            font-size: 2.2em;
+            }
+            /* 3. Centers the header text over your background image */
+            .header .content {
+            text-align: center;
+            padding-top: 1em;
+            padding-bottom: 1em;
+            }
+            } 
+
+
     </style>
     <style>
         .with-image-bg,
@@ -114,6 +127,7 @@
             position: relative;
             background-size: cover;
             margin-bottom: 2em;
+            background-position: center;
 
             /* Center everything inside */
             min-height: 70svh;
@@ -151,8 +165,8 @@
     <div class="header with-image-bg">
         <div class="content">
             <h1>Polymarket's court of public opinion and the murder of Charlie Kirk</h1>
-            <p class="subhead">As accused killer Tyler Robinson is in court on homicide charges the market for betting on his guilt or innocence is surging. 
-                Using AI we see the world through the eyes of those betting on Charlie Kirk's murder case, by mapping what else they bet on. <br><br>It's not only war and murder, but it is war and murder.</p>
+            <p class="subhead"><b>As accused killer Tyler Robinson is in court on homicide charges the market for betting on his guilt or innocence is surging. 
+                Using AI we see the world through the eyes of those betting on Charlie Kirk's murder case, by mapping what else they bet on. <br><br>It's not only war and murder, but it is war and murder.</b></p>
         </div>
     </div>
     <div class="content">
@@ -218,7 +232,7 @@ What's that if not a chance to make a buck?
         <div class="content">
             <p><br><br><br>Elections, sports, and the USA – Iran conflict are the most common topics to bet on. But which are the most popular bets of all?</p>
         </div>
-        <div class="flourish-embed flourish-chart" data-src="visualisation/29685290" style="width: 70%; margin: 0 auto;"></div>></div>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/29685290" style="width: 70%; margin: 0 auto;"></div>
         <div class="content">
             <p><br><br><br>While showing the ten biggest markets in terms of pure bet volume this does not really show how popular these markets are among the people betting on the Tyler Robinson case. To get another idea, these are the markets which most individual traders placed bets on.</p>
         </div>
