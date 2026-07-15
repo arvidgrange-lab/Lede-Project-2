@@ -27,11 +27,10 @@
             margin: auto;
         }
 
-        .header .content{
+        .header .content {
             padding: 3em 0;
             margin-top: 4vh;
         }
-
 
         .footer {
             background: #f4f4f4;
@@ -96,32 +95,7 @@
             background: #fff880;
         }
 
-        /* margin on mobile */
-        @media (max-width: 640px) {
-            body {
-            font-size: 18px;
-            }
-            /* 1. Increases padding so text stops hugging the left/right edges */
-            .content {
-            padding-left: 1.2em;
-            padding-right: 1.2em;
-            }
-            /* 2. Shrinks the massive title so it fits beautifully on a phone */
-
-            h1 {
-            font-size: 2.2em;
-            }
-            /* 3. Centers the header text over your background image */
-            .header .content {
-            text-align: center;
-            padding-top: 1em;
-            padding-bottom: 1em;
-            }
-            } 
-
-
-    </style>
-    <style>
+        /* --- BACKGROUND IMAGE RULES --- */
         .with-image-bg,
         .with-video-bg {
             position: relative;
@@ -158,6 +132,37 @@
             width: 100%;
             height: 100%;
         }
+
+        /* --- MOBILE RULES (Must be at the very bottom!) --- */
+        @media (max-width: 640px) {
+            body {
+                font-size: 18px;
+            }
+
+            /* Increases padding so text stops hugging the left/right edges */
+            .content {
+                padding-left: 1.2em;
+                padding-right: 1.2em;
+            }
+
+            /* Shrinks the massive title so it fits beautifully on a phone */
+            h1 {
+                font-size: 2.2em;
+            }
+
+            /* Adjusts header padding and aligns text left */
+            .header .content {
+                text-align: left;
+                padding-top: 1em;
+                padding-bottom: 1em;
+            }
+
+            /* Overrides the desktop background rules */
+            .with-image-bg {
+                background-position: left center;
+                min-height: 50svh;
+            }
+        } 
     </style>
 </head>
 
@@ -197,10 +202,10 @@ What's that if not a chance to make a buck?
             </div>
             <div class="content">
             <div class="flourish-embed flourish-chart" data-src="visualisation/29678791"></div>
+            </div>
        <div class="content">
             <p><br><br>The top 10 holders of the Tyler Robinson homicide market own 31.5 percent of all shares, an increase from 28 percent at the start of the court hearings. The top 100 holders control more than half of this market.</p>
         <p>According to data from Polymarket, their market predictions in general are not just whims of the public. Most of the time the leading prediction turn out true.</p>
-   </div>
    </div>
 <figure style="width: 70%; margin: auto;">
         <img src="polymarket_chart.png" alt="Chart made by Polymarket.">
