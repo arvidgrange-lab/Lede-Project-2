@@ -101,7 +101,7 @@
             position: relative;
             background-size: cover;
             margin-bottom: 2em;
-            background-position: center;
+            background-position: 45% center;
 
             /* Center everything inside */
             min-height: 70svh;
@@ -155,12 +155,16 @@
                 text-align: left;
                 padding-top: 1em;
                 padding-bottom: 1em;
+                padding-left: 1.2em;  /* <--- Add this line! */
+                padding-right: 1.2em; /* <--- And this line! */
             }
 
             /* Overrides the desktop background rules */
             .with-image-bg {
-                background-position: left center;
-                min-height: 50svh;
+                background-position: 0% center; 
+
+                /* Shrinking this from 50svh to auto zooms the image out! */
+                min-height: auto; 
             }
         } 
     </style>
