@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 556.55 575.98">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #ff7f7b;
+      }
+
+      .cls-4 {
+        font-size: 10.99px;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        isolation: isolate;
+      }
+
+      .cls-4, .cls-7 {
+        font-family: SourceSansRoman-Light, 'Source Sans Variable';
+        font-variation-settings: 'wght' 300;
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        font-size: 32.56px;
+      }
+
+      .cls-5, .cls-12, .cls-10, .cls-11 {
+        fill: #3e3e3e;
+        font-family: SourceSansRoman-Regular, 'Source Sans Variable';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        opacity: .8;
+        stroke: #ccc;
+      }
+
+      .cls-6, .cls-17 {
+        fill: #fff;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        font-size: 13.82px;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-22 {
+        fill: none;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        font-size: 12px;
+      }
+
+      .cls-25 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-31 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-8, .cls-9 {
+        font-size: 10px;
+      }
+
+      .cls-8, .cls-33 {
+        font-family: LucidaBright, 'Lucida Bright';
+      }
+
+      .cls-34 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-35 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-37 {
+        letter-spacing: 0em;
+      }
+
+      .cls-38 {
+        letter-spacing: 0em;
+      }
+
+      .cls-39 {
+        letter-spacing: 0em;
+      }
+
+      .cls-40, .cls-41 {
+        fill: #76b7f7;
+      }
+
+      .cls-41, .cls-42, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-41, .cls-3 {
+        stroke: #3d3d3d;
+        stroke-width: 1.5px;
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-44 {
+        letter-spacing: 0em;
+      }
+
+      .cls-45 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-10 {
+        font-size: 27.12px;
+      }
+
+      .cls-46 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        stroke: #000;
+        stroke-width: .8px;
+      }
+
+      .cls-47 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        font-size: 22.81px;
+      }
+
+      .cls-48 {
+        letter-spacing: 0em;
+      }
+
+      .cls-49 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <path class="cls-17" d="M0,570.36h556.55V0H0v570.36Z"/>
+  <path class="cls-17" d="M161.73,515.24h334.8V71.72H161.73v443.52Z"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="443.52"/>
+  <path id="m57c52e5044" class="cls-3" d="M329.13,495.08h-.21l-.14-2.91-.18-2.91-.23-2.91-.25-2.91-.24-2.91-.19-2.91-.1-2.91v-2.91s.12-2.91.12-2.91l.2-2.91.24-2.91.25-2.91.22-2.91.18-2.91.13-2.91.08-2.91.05-2.91.02-2.91v-2.91s0-2.91,0-2.91l-.04-2.91-.08-2.91-.14-2.91-.24-2.91-.4-2.91-.62-2.91-.96-2.91-1.48-2.91-2.33-2.91-3.67-2.91-5.72-2.91-8.59-2.91-12.17-2.91-15.99-2.91-19.19-2.91-20.65-2.91-19.34-2.91-14.81-2.91-7.46-2.91,1.42-2.91,10.05-2.91,16.7-2.91,20.32-2.91,20.75-2.91,18.64-2.91,15.05-2.91,11.08-2.91,7.5-2.91,4.7-2.91,2.74-2.91,1.49-2.91.77-2.91.39-2.91.21-2.91.13-2.91.1-2.91.07-2.91.04-2.91v-2.91s0-2.91,0-2.91l.02-2.91.06-2.91.11-2.91.15-2.91.16-2.91.12-2.91.04-2.91-.07-2.91-.18-2.91-.28-2.91-.34-2.91-.37-2.91-.38-2.91-.34-2.91-.28-2.91-.18-2.91-.05-2.91.11-2.91.27-2.91.4-2.91.49-2.91.5-2.91.45-2.91.34-2.91.2-2.91.05-2.91-.07-2.91-.16-2.91-.19-2.91-.17-2.91-.1-2.91v-2.91s.1-2.91.1-2.91l.19-2.91.24-2.91.25-2.91.23-2.91.18-2.91.14-2.91h.21v288.27Z"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="443.52"/>
+  <path id="m33b55f77b4" class="cls-41" d="M340.53,406.05h-11.4V91.88h.2l.14,3.17.18,3.17.23,3.17.25,3.17.23,3.17.18,3.17.09,3.17-.02,3.17-.12,3.17-.2,3.17-.24,3.17-.24,3.17-.22,3.17-.17,3.17-.12,3.17-.08,3.17-.05,3.17-.03,3.17v3.17s-.02,3.17-.02,3.17v3.17s0,3.17,0,3.17v3.17s0,3.17,0,3.17v3.17s0,3.17,0,3.17v72.99s0,3.17,0,3.17v3.17s0,3.17,0,3.17v3.17s0,3.17,0,3.17v3.17s.02,3.17.02,3.17l.03,3.17.05,3.17.09,3.17.14,3.17.2,3.17.26,3.17.32,3.17.36,3.17.38,3.17.36,3.17.33,3.17.28,3.17.24,3.17.23,3.17.25,3.17.32,3.17.42,3.17.54,3.17.66,3.17.76,3.17.81,3.17.86,3.17.98,3.17,1.37,3.17,2.24,3.17,3.87,3.17,6.42,3.17,9.87,3.17,13.87,3.17,17.65,3.17,20.12,3.17,20.15,3.17,16.97,3.17,10.58,3.17,1.94,3.17-7.25,3.17-15.08,3.17-20.09,3.17-21.7,3.17-20.28,3.17-16.85,3.17-12.63,3.17-8.61,3.17Z"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="443.52"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="443.52"/>
+  <text class="cls-11" transform="translate(270.59 528.88) scale(.76 1)"><tspan class="cls-32" x="0" y="0">T</tspan><tspan x="10.72" y="0">o</tspan><tspan class="cls-48" x="23.08" y="0">p</tspan><tspan class="cls-13" x="35.65" y="0" xml:space="preserve"> 200 </tspan><tspan class="cls-21" x="78.79" y="0">T</tspan><tspan class="cls-28" x="89.96" y="0">r</tspan><tspan x="97.33" y="0">ade</tspan><tspan class="cls-23" x="132.8" y="0">r</tspan><tspan x="140.63" y="0">s</tspan></text>
+  <path id="mbb9f51347f" class="cls-42" d="M161.73,466.17h-3.5"/>
+  <text class="cls-9" transform="translate(106.52 469.17)"><tspan class="cls-45" x="0" y="0">−</tspan><tspan class="cls-33" x="5.96" y="0">200 000</tspan></text>
+  <path id="mbb9f51347f-2" data-name="mbb9f51347f" class="cls-42" d="M161.73,380.56h-3.5"/>
+  <text class="cls-8" transform="translate(148.64 384.36)"><tspan x="0" y="0">0</tspan></text>
+  <path id="mbb9f51347f-3" data-name="mbb9f51347f" class="cls-42" d="M161.73,294.95h-3.5"/>
+  <text class="cls-8" transform="translate(114.52 298.86)"><tspan x="0" y="0">200 000</tspan></text>
+  <path id="mbb9f51347f-4" data-name="mbb9f51347f" class="cls-42" d="M161.73,209.34h-3.5"/>
+  <text class="cls-8" transform="translate(114.22 212.84)"><tspan x="0" y="0">400 000</tspan></text>
+  <path id="mbb9f51347f-5" data-name="mbb9f51347f" class="cls-42" d="M161.73,123.72h-3.5"/>
+  <text class="cls-8" transform="translate(113.62 127.99)"><tspan x="0" y="0">600 000</tspan></text>
+  <text class="cls-10" transform="translate(69.63 391.21) rotate(-90) scale(.72 1)"><tspan class="cls-44" x="0" y="0">A</tspan><tspan x="14.65" y="0">ll time p</tspan><tspan class="cls-14" x="106.16" y="0">r</tspan><tspan class="cls-46" x="115.3" y="0">o</tspan><tspan x="129.94" y="0">fi</tspan><tspan class="cls-37" x="144.53" y="0">t</tspan><tspan x="153.43" y="0">s or l</tspan><tspan class="cls-24" x="206.67" y="0">o</tspan><tspan x="221.32" y="0">sses (</tspan><tspan class="cls-14" x="282.5" y="0">U</tspan><tspan x="299.73" y="0">SD)</tspan></text>
+  <rect class="cls-22" x="161.73" y="72.5" width="334.8" height="443.52"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="467.4"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="423.36"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="414.62"/>
+  <rect class="cls-22" x="161.73" y="71.72" width="334.8" height="431.96"/>
+  <text class="cls-5" transform="translate(69.22 34.23) scale(.56 1)"><tspan x="0" y="0">Wh</tspan><tspan class="cls-34" x="43.3" y="0">o</tspan><tspan class="cls-31" x="60.1" y="0">’</tspan><tspan x="66.61" y="0">s p</tspan><tspan class="cls-36" x="104.83" y="0">r</tspan><tspan class="cls-16" x="115.81" y="0">edi</tspan><tspan class="cls-36" x="158.03" y="0">c</tspan><tspan x="172.55" y="0">tions </tspan><tspan class="cls-15" x="247.17" y="0">t</tspan><tspan class="cls-16" x="257.72" y="0">end </tspan><tspan class="cls-15" x="316.26" y="0">t</tspan><tspan class="cls-39" x="326.81" y="0">o</tspan><tspan x="344.33" y="0"> </tspan><tspan class="cls-35" x="350.84" y="0">c</tspan><tspan class="cls-20" x="365" y="0">ome true </tspan><tspan class="cls-19" x="494.97" y="0">–</tspan><tspan class="cls-1" x="510.37" y="0" xml:space="preserve"> th</tspan><tspan class="cls-43" x="545.59" y="0">o</tspan><tspan x="563.17" y="0">se saying </tspan><tspan class="cls-25" x="693.47" y="0">Y</tspan><tspan x="707.63" y="0">es or N</tspan><tspan class="cls-29" x="800.45" y="0">o</tspan><tspan x="817.71" y="0">?</tspan></text>
+  <path class="cls-6" d="M438.75,123.75h50.77c1.33,0,2-.53,2-1.6v-34.51c0-1.07-.67-1.6-2-1.6h-50.77c-1.33,0-2,.53-2,1.6v34.51c0,1.07.67,1.6,2,1.6Z"/>
+  <path class="cls-2" d="M440.75,102.99h20v-7h-20v7Z"/>
+  <text class="cls-7" transform="translate(469.75 104.89) scale(.72 1)"><tspan x="0" y="0">NO</tspan></text>
+  <path class="cls-40" d="M440.75,117.71h20v-7.04h-20v7.04Z"/>
+  <text class="cls-4" transform="translate(469.72 118.47) scale(.91 1)"><tspan class="cls-38" x="0" y="0">Y</tspan><tspan class="cls-18" x="4.88" y="0">ES</tspan></text>
+  <text class="cls-12" transform="translate(86.39 560.33)"><tspan x="0" y="0">Sou</tspan><tspan class="cls-49" x="19.44" y="0">r</tspan><tspan class="cls-27" x="23.48" y="0">c</tspan><tspan x="28.7" y="0">e: </tspan><tspan class="cls-30" x="40.04" y="0">P</tspan><tspan class="cls-26" x="46.55" y="0">o</tspan><tspan x="53" y="0">lymar</tspan><tspan class="cls-47" x="81.83" y="0">k</tspan><tspan class="cls-49" x="87.55" y="0">e</tspan><tspan x="93.38" y="0">t</tspan></text>
+</svg>
