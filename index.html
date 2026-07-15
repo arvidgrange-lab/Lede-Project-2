@@ -161,10 +161,10 @@
 
             /* Overrides the desktop background rules */
             .with-image-bg {
-                background-position: 0% center; 
-
-                /* Shrinking this from 50svh to auto zooms the image out! */
-                min-height: auto; 
+                background-position: center top; 
+                background-size: 100% auto; /* Forces the image edges to match the screen edges */
+                background-repeat: no-repeat; /* Prevents the image from tiling */
+                min-height: auto;
             }
         } 
     </style>
