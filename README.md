@@ -28,7 +28,7 @@ Then I analysed the rate of Yes/No bettors as well as the average all-time profi
 
 Furthermore, I extracted the most recent 1000 trades by the top 100 traders on the Tyler Robinson homicide case market. Not all of those traders had made 1000 trades in their polymarket careers, so the number of trades per trader varied.
 
-Narrowing that down to only purchases of shares created a dataset of roughly 40 000 trades. I analyzed these trades using a claude LLM, categorizing each trade based on the topic. I had API errors on 7000 trades and a time shortage on top of that, which led me to end up categorizing around 27 000 trades successfully. However I consider this a successful analysis regardless, accurately representing reality.
+Narrowing that down to only purchases of shares created a dataset of roughly 40 000 trades. I analyzed these trades using a claude LLM, which I trained on a sample data set to reach an accuracy rate of 95 %, categorizing each trade based on the topic. I had API errors on 7000 trades and a time shortage on top of that, which led me to end up categorizing around 27 000 trades successfully. However I consider this a successful analysis regardless, accurately representing reality
 
 Using this data I could map the most common topics to bet on, scaled both in terms of bet volume and cash volume.
 
